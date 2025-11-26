@@ -1,8 +1,6 @@
 # 🗄️ AWS S3 Static Website Hosting Lab
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![S3](https://img.shields.io/badge/S3-Static_Website-blue?style=for-the-badge&logo=amazon-s3)
-![CLI](https://img.shields.io/badge/AWS-CLI-green?style=for-the-badge&logo=amazonaws)
+![Badge AWS](https://img.shields.io/badge/AWS-S3_Static_Hosting-orange) ![Badge Storage](https://img.shields.io/badge/Storage-Website_Static-blue) ![Badge CLI](https://img.shields.io/badge/Automation-AWS_CLI-critical) ![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Laboratório prático de hospedagem de site estático usando Amazon S3, incluindo criação de bucket, configuração de permissões IAM e automatização de deploy com AWS CLI.
 
